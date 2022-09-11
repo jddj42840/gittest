@@ -34,9 +34,6 @@ def user():
 
 
 print("Hello my name is chchchc")
-<<<<<<< HEAD
-print("third version in secondbranch branch")
-=======
-print("second dot three version in secondbranch branch")
->>>>>>> 38702881f6f83c1a8022cfcacda159dac64b9bd2
+print("third dot five version in secondbranch branch")
+
 app.run(port=5000, debug=True)
